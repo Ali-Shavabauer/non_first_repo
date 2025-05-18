@@ -28,3 +28,4 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 
 Редакция через браузер
 Добавили текст локально
+Добавили локальный конфликт
